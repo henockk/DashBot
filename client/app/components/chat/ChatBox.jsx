@@ -6,7 +6,7 @@ import { IoCopy } from "react-icons/io5";
 import { FaCheck } from "react-icons/fa6";
 import SyntaxHighlighter from 'react-syntax-highlighter';
 import { docco } from 'react-syntax-highlighter/dist/esm/styles/hljs';
-import copy from 'copy-to-clipboard';
+
 
 
 export default function ChatBox() {
